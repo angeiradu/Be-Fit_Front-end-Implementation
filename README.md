@@ -1,4 +1,4 @@
-# be_fit
+# Be_Fit.
 
 A new Flutter project.
 
